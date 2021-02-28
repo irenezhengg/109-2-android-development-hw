@@ -1,0 +1,10 @@
+Question 1
+
+Q: What is the name of the layout file for the main activity?
+A: activity_main.xml
+
+Q: What is the name of the string resource that specifies the application's name?
+A: AVD Manager
+
+Question 4
+A: Verbose and Debug
