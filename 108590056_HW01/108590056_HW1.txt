@@ -7,4 +7,4 @@ Q: What is the name of the string resource that specifies the application's name
 A: AVD Manager
 
 Question 4
-A: Verbose and Debug
+A: Verbose, Debug and Info
