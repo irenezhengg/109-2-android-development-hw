@@ -1,0 +1,4 @@
+#Wed Mar 18 19:04:27 CST 2020
+base.0=C\:\\Users\\aushi\\Desktop\\Android Development\\android-fundamentals-apps-v2-master\\ScrollingTextChallenge\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
