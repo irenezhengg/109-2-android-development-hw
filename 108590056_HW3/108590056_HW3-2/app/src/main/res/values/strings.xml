@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">107590061_HW3-2</string>
+    <string name="app_name">108590056_HW3-2</string>
     <string name="button_label_toast">Say Hello</string>
     <string name="button_label_count">Count</string>
     <string name="count_initial_value">0</string>
