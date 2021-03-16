@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 16 21:54:30 GMT+08:00 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Irene Zheng\\Downloads\\ImplicitIntents-20210316T134014Z-001\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

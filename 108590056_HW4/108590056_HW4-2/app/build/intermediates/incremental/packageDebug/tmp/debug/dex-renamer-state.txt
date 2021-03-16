@@ -1,0 +1,4 @@
+#Tue Mar 16 21:54:30 GMT+08:00 2021
+base.0=C\:\\Users\\Irene Zheng\\Downloads\\ImplicitIntents-20210316T134014Z-001\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
