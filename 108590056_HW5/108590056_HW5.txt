@@ -1,0 +1,21 @@
+HW5-1
+
+Q: Which statement best describes a local unit test? Choose one:
+A: Tests that are compiled and run entirely on your local machine with the Java Virtual Machine (JVM).
+
+Q: Source sets are collections of related code. In which source set are you likely to find unit tests? Choose one:
+A: com.example.android.SimpleCalcTest (test)
+
+Q: Which annotation is used to mark a method as an actual test? Choose one:
+A: @Test
+
+HW5-2
+
+Q: How do you add images to an Android Studio project? Choose one:
+A: Copy the image files into your project's drawable folder.
+
+Q: How do you make an ImageView clickable like a simple Button? Choose one:
+A: Add the android:onClick attribute to the ImageView in the layout and use it to call the click handler in the Activity.
+
+Q: Which rule applies to a click handler called from the attribute in the layout? Choose one:
+A: The click handler method must be public, return void, and define a View as its only parameter.
