@@ -1,0 +1,26 @@
+HW6-1
+Q: What's the most important difference between checkboxes and a RadioGroup of radio buttons? Choose one:
+A: The major difference is that checkboxes enable multiple selections, while a RadioGroup allows only one selection.
+
+Q: Which layout group lets you align a set of CheckBox elements vertically? Choose one:
+A: LinearLayout
+
+
+Q: Which of the following is the method of the Checkable interface to check the state of a radio button (that is, whether it has been selected or not)?
+A: isChecked()
+
+
+HW6-2
+Q： What is the name of the file in which you create options menu items? Choose one:
+A: menu_main.xml
+
+
+Q: Which method is called when an options menu item is clicked? Choose one:
+A: onOptionsItemSelected(MenuItem item)
+
+
+Q: Which of the following statements sets the title for an alert dialog? Choose one:
+A: myAlertBuilder.setTitle("Alert");
+
+Q: Where do you create a DialogFragment for a date picker? Choose one:
+A: In the onCreateDialog() method in the extension of DialogFragment.
