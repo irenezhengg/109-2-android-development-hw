@@ -1,0 +1,21 @@
+HW7-1
+
+Q: Which template provides an Activity with an options menu and the v7 appcompat support library Toolbar as the app bar? Choose one:
+A: Basic Activity template
+
+Q: Which dependency do you need in order to use a TabLayout? Choose one:
+A: com.android.support:design
+
+Q: Where do you define each child Activity and parent Activity to provide Up navigation? Choose one:
+A: To provide the Up button for a child screen Activity, declare the parent Activity in the child Activity section of the AndroidManifest.xml file.
+
+HW7-2
+
+Q: Which of the following statements about a RecyclerView is false? Choose one.
+A: You don't need a layout manager with a RecyclerView to handle the hierarchy and layout of View elements.
+
+Q: Which of the following is the primary component you need to provide to an adapter a View item and its position within a RecyclerView? Choose one.
+A: RecyclerView.ViewHolder
+
+Q: Which interface do you need to implement in order to listen and respond to user clicks in a RecyclerView? Choose one.
+A: View.onClickListener

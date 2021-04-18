@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dd66924df6e6be68ec07e7987eb2c49f\design-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b8c944ec70575fda4f7046eab17d856b\design-bottomappbar-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\916bdb4e05fd6d477ba6275648127ab9\design-theme-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\8ab96176fecd5ffb225d776a63196b78\design-transformation-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ad16efd65c8d8955de2a139ccfbcdf5f\design-widget-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d59c853ed51dffc73de5f6a3984ebbed\design-bottomsheet-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\12857a42337acb168c376f75fabb9974\design-dialog-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6927c486922e9c5bea228229dc7070c1\design-button-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\06b3cc0694ec97609b9f00f20058882b\design-card-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\7ac89759bfd9f0e9d119029fba18fbed\design-chip-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f5e809617072332641dcdc0c8805f22f\design-internal-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\291412456149075aa7e05d5ce4514a4b\design-bottomnavigation-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\32b50be11b8c7fdac4c4c24bd36b7a4c\design-floatingactionbutton-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\27d6e2dc06d8f88c550685bcc01941cc\design-navigation-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c694f7fe3171fa5a2a80f75945a22ef3\design-resources-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a726ac50f21b9f058a4007b7a377766\design-tabs-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\74c2f4e57a102a1451f19b06515a8d7c\design-textfield-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5787773f87a97a988719f52467d3d18a\design-typography-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\13d69b02b5192825c1f93c756e4aa794\design-shape-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a79482f0f0e470c3fdfa14e9fa32cb1\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ea1608d1ac9769bc41df6e9fcdac22b6\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0c78105489163b6a9fab076b12f9458a\support-fragment-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b343be606a32c37b7e33700b7b4e367f\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9049ea363dea4647570605f815f516a6\recyclerview-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6272d598abad9d6c2f4e3cf8a2dc2fd7\design-animation-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d39433370c582c9c0592b9306b6e6ece\design-circularreveal-coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\164a65baf0e839fcacbf1f3c0c1a6473\design-expandable-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\4c6690ebbabb3162b41843128dc31785\design-stateful-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\951ac8998a4e1e8808f2eb7150922e00\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\843fe43a2e9c60dd4f7075bf3b615ca8\design-ripple-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\819d9526fed64c425f2475bf10f45a95\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2bdcd307ad2044de2fe785a9f38fcea6\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\de6edb1a241ccfe6ca92cdf847501ffd\transition-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ea60282fa23b8cccd6942955299e09b\loader-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\e4249c75dbfb69419e982542908f8036\viewpager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\627acc4c08447bd0049b3a2ec144315e\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cc3ae954ed9800b2b0d168d29e7e23f9\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2e3938d030f778b7c629f4eccae54abc\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\306dcbd5f7581725414b67fa4cd6ddd0\customview-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\a3a92ff00387a9914591afe8f8e1f542\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\1ed9a7649964224d700772f2eb8fee01\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\83cfa419d75eca059e952ac661f448e4\support-compat-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9c92f37ba26338d76682d5ab457bee4a\design-canvas-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\466c54c4c822870b723d6a099dbe1bc0\design-circularreveal-cardview-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c7b49659bb4c93d0b16db1526a298fa4\design-circularreveal-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\afed66a8b0c3c986f869a8f69c967dfc\design-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\687531f64143c8f066455a106f166423\documentfile-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ae04137c1d13b904b7638ebb3f30b8d\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\066de04e4c0be46e2d8fb0ed9dd20f22\print-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cb1db987421c2b7bef5db2bdab91488b\interpolator-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d08306e073a348ee7618521500d3486c\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2aca4b74dc8d6a1e545af3ea446b0597\cardview-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\57c665bdc9a3e10e46e87f0d00647cd2\design-color-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b1ae61cbeb1d2049783c3e9cbeaf84ec\design-math-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6c6254746329806fd4fed2f012ded678\design-snackbar-28.0.0-alpha1\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2d83aa17362795e30f5ffb9ba9a700fc\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\221e784dd3940577f71b524955a9d156\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dda3fbc64b29cf690216f337bc58ec4c\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0bba5566df70173770edc14814cfa611\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:5:5-50:19
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dd66924df6e6be68ec07e7987eb2c49f\design-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dd66924df6e6be68ec07e7987eb2c49f\design-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b8c944ec70575fda4f7046eab17d856b\design-bottomappbar-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b8c944ec70575fda4f7046eab17d856b\design-bottomappbar-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\916bdb4e05fd6d477ba6275648127ab9\design-theme-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\916bdb4e05fd6d477ba6275648127ab9\design-theme-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\8ab96176fecd5ffb225d776a63196b78\design-transformation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\8ab96176fecd5ffb225d776a63196b78\design-transformation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ad16efd65c8d8955de2a139ccfbcdf5f\design-widget-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ad16efd65c8d8955de2a139ccfbcdf5f\design-widget-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d59c853ed51dffc73de5f6a3984ebbed\design-bottomsheet-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d59c853ed51dffc73de5f6a3984ebbed\design-bottomsheet-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\12857a42337acb168c376f75fabb9974\design-dialog-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\12857a42337acb168c376f75fabb9974\design-dialog-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6927c486922e9c5bea228229dc7070c1\design-button-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6927c486922e9c5bea228229dc7070c1\design-button-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\06b3cc0694ec97609b9f00f20058882b\design-card-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\06b3cc0694ec97609b9f00f20058882b\design-card-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\7ac89759bfd9f0e9d119029fba18fbed\design-chip-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\7ac89759bfd9f0e9d119029fba18fbed\design-chip-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f5e809617072332641dcdc0c8805f22f\design-internal-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f5e809617072332641dcdc0c8805f22f\design-internal-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\291412456149075aa7e05d5ce4514a4b\design-bottomnavigation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\291412456149075aa7e05d5ce4514a4b\design-bottomnavigation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\32b50be11b8c7fdac4c4c24bd36b7a4c\design-floatingactionbutton-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\32b50be11b8c7fdac4c4c24bd36b7a4c\design-floatingactionbutton-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\27d6e2dc06d8f88c550685bcc01941cc\design-navigation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\27d6e2dc06d8f88c550685bcc01941cc\design-navigation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c694f7fe3171fa5a2a80f75945a22ef3\design-resources-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c694f7fe3171fa5a2a80f75945a22ef3\design-resources-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a726ac50f21b9f058a4007b7a377766\design-tabs-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a726ac50f21b9f058a4007b7a377766\design-tabs-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\74c2f4e57a102a1451f19b06515a8d7c\design-textfield-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\74c2f4e57a102a1451f19b06515a8d7c\design-textfield-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5787773f87a97a988719f52467d3d18a\design-typography-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5787773f87a97a988719f52467d3d18a\design-typography-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\13d69b02b5192825c1f93c756e4aa794\design-shape-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\13d69b02b5192825c1f93c756e4aa794\design-shape-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6272d598abad9d6c2f4e3cf8a2dc2fd7\design-animation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6272d598abad9d6c2f4e3cf8a2dc2fd7\design-animation-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d39433370c582c9c0592b9306b6e6ece\design-circularreveal-coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d39433370c582c9c0592b9306b6e6ece\design-circularreveal-coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\164a65baf0e839fcacbf1f3c0c1a6473\design-expandable-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\164a65baf0e839fcacbf1f3c0c1a6473\design-expandable-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\4c6690ebbabb3162b41843128dc31785\design-stateful-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\4c6690ebbabb3162b41843128dc31785\design-stateful-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\843fe43a2e9c60dd4f7075bf3b615ca8\design-ripple-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\843fe43a2e9c60dd4f7075bf3b615ca8\design-ripple-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9c92f37ba26338d76682d5ab457bee4a\design-canvas-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9c92f37ba26338d76682d5ab457bee4a\design-canvas-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\466c54c4c822870b723d6a099dbe1bc0\design-circularreveal-cardview-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\466c54c4c822870b723d6a099dbe1bc0\design-circularreveal-cardview-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c7b49659bb4c93d0b16db1526a298fa4\design-circularreveal-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c7b49659bb4c93d0b16db1526a298fa4\design-circularreveal-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\afed66a8b0c3c986f869a8f69c967dfc\design-drawable-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\afed66a8b0c3c986f869a8f69c967dfc\design-drawable-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\57c665bdc9a3e10e46e87f0d00647cd2\design-color-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\57c665bdc9a3e10e46e87f0d00647cd2\design-color-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b1ae61cbeb1d2049783c3e9cbeaf84ec\design-math-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b1ae61cbeb1d2049783c3e9cbeaf84ec\design-math-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6c6254746329806fd4fed2f012ded678\design-snackbar-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6c6254746329806fd4fed2f012ded678\design-snackbar-28.0.0-alpha1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.mahakagg.ordernavigation.MainActivity
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:14:13-45
+	android:launchMode
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:15:13-43
+	android:theme
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:19:27-74
+activity#me.mahakagg.ordernavigation.SecondActivity
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:parentActivityName
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:27:13-55
+	android:label
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:25:13-58
+	android:theme
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:24:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:28:13-29:48
+	android:value
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:28:24-70
+activity#me.mahakagg.ordernavigation.ThirdActivity
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:parentActivityName
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:36:13-55
+	android:label
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:34:13-43
+	android:theme
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:33:13-42
+activity#me.mahakagg.ordernavigation.FourthActivity
+ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:parentActivityName
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:45:13-55
+	android:label
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:43:13-58
+	android:theme
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml:42:13-43
+uses-sdk
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dd66924df6e6be68ec07e7987eb2c49f\design-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dd66924df6e6be68ec07e7987eb2c49f\design-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b8c944ec70575fda4f7046eab17d856b\design-bottomappbar-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b8c944ec70575fda4f7046eab17d856b\design-bottomappbar-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\916bdb4e05fd6d477ba6275648127ab9\design-theme-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\916bdb4e05fd6d477ba6275648127ab9\design-theme-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\8ab96176fecd5ffb225d776a63196b78\design-transformation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\8ab96176fecd5ffb225d776a63196b78\design-transformation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ad16efd65c8d8955de2a139ccfbcdf5f\design-widget-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ad16efd65c8d8955de2a139ccfbcdf5f\design-widget-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d59c853ed51dffc73de5f6a3984ebbed\design-bottomsheet-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d59c853ed51dffc73de5f6a3984ebbed\design-bottomsheet-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\12857a42337acb168c376f75fabb9974\design-dialog-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\12857a42337acb168c376f75fabb9974\design-dialog-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6927c486922e9c5bea228229dc7070c1\design-button-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6927c486922e9c5bea228229dc7070c1\design-button-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\06b3cc0694ec97609b9f00f20058882b\design-card-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\06b3cc0694ec97609b9f00f20058882b\design-card-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\7ac89759bfd9f0e9d119029fba18fbed\design-chip-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\7ac89759bfd9f0e9d119029fba18fbed\design-chip-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f5e809617072332641dcdc0c8805f22f\design-internal-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f5e809617072332641dcdc0c8805f22f\design-internal-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\291412456149075aa7e05d5ce4514a4b\design-bottomnavigation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\291412456149075aa7e05d5ce4514a4b\design-bottomnavigation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\32b50be11b8c7fdac4c4c24bd36b7a4c\design-floatingactionbutton-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\32b50be11b8c7fdac4c4c24bd36b7a4c\design-floatingactionbutton-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\27d6e2dc06d8f88c550685bcc01941cc\design-navigation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\27d6e2dc06d8f88c550685bcc01941cc\design-navigation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c694f7fe3171fa5a2a80f75945a22ef3\design-resources-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c694f7fe3171fa5a2a80f75945a22ef3\design-resources-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a726ac50f21b9f058a4007b7a377766\design-tabs-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a726ac50f21b9f058a4007b7a377766\design-tabs-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\74c2f4e57a102a1451f19b06515a8d7c\design-textfield-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\74c2f4e57a102a1451f19b06515a8d7c\design-textfield-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5787773f87a97a988719f52467d3d18a\design-typography-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5787773f87a97a988719f52467d3d18a\design-typography-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\13d69b02b5192825c1f93c756e4aa794\design-shape-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\13d69b02b5192825c1f93c756e4aa794\design-shape-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a79482f0f0e470c3fdfa14e9fa32cb1\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9a79482f0f0e470c3fdfa14e9fa32cb1\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ea1608d1ac9769bc41df6e9fcdac22b6\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\ea1608d1ac9769bc41df6e9fcdac22b6\gridlayout-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0c78105489163b6a9fab076b12f9458a\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0c78105489163b6a9fab076b12f9458a\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b343be606a32c37b7e33700b7b4e367f\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b343be606a32c37b7e33700b7b4e367f\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9049ea363dea4647570605f815f516a6\recyclerview-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9049ea363dea4647570605f815f516a6\recyclerview-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6272d598abad9d6c2f4e3cf8a2dc2fd7\design-animation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6272d598abad9d6c2f4e3cf8a2dc2fd7\design-animation-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d39433370c582c9c0592b9306b6e6ece\design-circularreveal-coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d39433370c582c9c0592b9306b6e6ece\design-circularreveal-coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\164a65baf0e839fcacbf1f3c0c1a6473\design-expandable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\164a65baf0e839fcacbf1f3c0c1a6473\design-expandable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\4c6690ebbabb3162b41843128dc31785\design-stateful-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\4c6690ebbabb3162b41843128dc31785\design-stateful-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\951ac8998a4e1e8808f2eb7150922e00\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\951ac8998a4e1e8808f2eb7150922e00\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\843fe43a2e9c60dd4f7075bf3b615ca8\design-ripple-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\843fe43a2e9c60dd4f7075bf3b615ca8\design-ripple-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\819d9526fed64c425f2475bf10f45a95\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\819d9526fed64c425f2475bf10f45a95\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2bdcd307ad2044de2fe785a9f38fcea6\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2bdcd307ad2044de2fe785a9f38fcea6\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\de6edb1a241ccfe6ca92cdf847501ffd\transition-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\de6edb1a241ccfe6ca92cdf847501ffd\transition-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ea60282fa23b8cccd6942955299e09b\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ea60282fa23b8cccd6942955299e09b\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\e4249c75dbfb69419e982542908f8036\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\e4249c75dbfb69419e982542908f8036\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\627acc4c08447bd0049b3a2ec144315e\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\627acc4c08447bd0049b3a2ec144315e\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cc3ae954ed9800b2b0d168d29e7e23f9\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cc3ae954ed9800b2b0d168d29e7e23f9\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2e3938d030f778b7c629f4eccae54abc\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2e3938d030f778b7c629f4eccae54abc\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\306dcbd5f7581725414b67fa4cd6ddd0\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\306dcbd5f7581725414b67fa4cd6ddd0\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\a3a92ff00387a9914591afe8f8e1f542\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\a3a92ff00387a9914591afe8f8e1f542\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\1ed9a7649964224d700772f2eb8fee01\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\1ed9a7649964224d700772f2eb8fee01\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\83cfa419d75eca059e952ac661f448e4\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\83cfa419d75eca059e952ac661f448e4\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9c92f37ba26338d76682d5ab457bee4a\design-canvas-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\9c92f37ba26338d76682d5ab457bee4a\design-canvas-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\466c54c4c822870b723d6a099dbe1bc0\design-circularreveal-cardview-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\466c54c4c822870b723d6a099dbe1bc0\design-circularreveal-cardview-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c7b49659bb4c93d0b16db1526a298fa4\design-circularreveal-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\c7b49659bb4c93d0b16db1526a298fa4\design-circularreveal-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\afed66a8b0c3c986f869a8f69c967dfc\design-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\afed66a8b0c3c986f869a8f69c967dfc\design-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\687531f64143c8f066455a106f166423\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\687531f64143c8f066455a106f166423\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ae04137c1d13b904b7638ebb3f30b8d\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\5ae04137c1d13b904b7638ebb3f30b8d\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\066de04e4c0be46e2d8fb0ed9dd20f22\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\066de04e4c0be46e2d8fb0ed9dd20f22\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cb1db987421c2b7bef5db2bdab91488b\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\cb1db987421c2b7bef5db2bdab91488b\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d08306e073a348ee7618521500d3486c\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\d08306e073a348ee7618521500d3486c\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2aca4b74dc8d6a1e545af3ea446b0597\cardview-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2aca4b74dc8d6a1e545af3ea446b0597\cardview-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\57c665bdc9a3e10e46e87f0d00647cd2\design-color-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\57c665bdc9a3e10e46e87f0d00647cd2\design-color-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b1ae61cbeb1d2049783c3e9cbeaf84ec\design-math-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\b1ae61cbeb1d2049783c3e9cbeaf84ec\design-math-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6c6254746329806fd4fed2f012ded678\design-snackbar-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\6c6254746329806fd4fed2f012ded678\design-snackbar-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2d83aa17362795e30f5ffb9ba9a700fc\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\2d83aa17362795e30f5ffb9ba9a700fc\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\221e784dd3940577f71b524955a9d156\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\221e784dd3940577f71b524955a9d156\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dda3fbc64b29cf690216f337bc58ec4c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\dda3fbc64b29cf690216f337bc58ec4c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0bba5566df70173770edc14814cfa611\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Irene Zheng\.gradle\caches\transforms-2\files-2.1\0bba5566df70173770edc14814cfa611\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Irene Zheng\Desktop\android-dev\108590056_HW7\108590056_HW7-1\app\src\main\AndroidManifest.xml
