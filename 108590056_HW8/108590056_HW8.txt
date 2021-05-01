@@ -1,0 +1,27 @@
+HW8-1
+Number 1
+Q: Which type of Drawable do you use to create a Button with a background that stretches properly to accommodate the text or image inside the Button so that it looks correct for different screen sizes and orientations? Choose one:
+A: NinePatchDrawable
+
+Number 2
+Q: Which type of Drawable do you use to create a Button that shows one background when it is pressed and a different background when it is hovered over? Choose one:
+A: StateListDrawable
+
+Number 3
+Q: Suppose you want to create an app that has a white background, dark text, and a dark action bar. Which base style does your application style inherit from? Choose one:
+A: Theme.AppCompat.Light.DarkActionBar
+
+
+HW8-2
+
+Number 1
+Q: Which color attribute in your style defines the color of the status bar above the app bar? Choose one:
+A: colorPrimaryDark
+
+Number 2
+Q: Which support library does the FloatingActionButton belong to? Choose one:
+A: Design Support Library
+
+Number 3
+Q: In the Material Design color palette, which shade of a color should you use as the primary color for your brand in your app? Choose one:
+A: Any color shade labeled 500.
