@@ -1,0 +1,20 @@
+HW9-1
+Q: Which resource qualifier is used most frequently to select for tablets? Choose one:
+A: Smallest screen width
+
+Q: Which folder would hold the strings.xml file for translation into French for Canada? Choose one:
+A: res/values-fr-rCA/
+
+Q: Which folder is for XML files that contain strings, integers, and colors? Choose one:
+A: res/values
+
+HW9-2
+Q: Which steps do you perform to test a View interaction, and in what order? Choose one:
+A: Match a View, perform an action, and assert and verify the result.
+
+Q: Which of the following annotations enables an instrumented JUnit 4 test class? Choose one:
+A: @RunWith and @Test
+
+Q: Which method would you use to find a child View in an AdapterView? Choose one:
+A: onData() to load the adapter and enable the child View to appear on the screen.
+

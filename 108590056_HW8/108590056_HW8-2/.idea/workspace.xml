@@ -42,14 +42,13 @@
   <component name="ProjectId" id="1rwEMd1qqZK3RTxokWLG7PkEb3O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../108590056_HW8-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../108590056_HW9/108590056_HW9-1" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -144,9 +143,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1619879699601">
+    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1620641324996">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1619879699601" />
+    <state x="740" y="315" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1620641324996" />
+    <state x="1103" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1619974487926">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="269" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1619974487926" />
   </component>
 </project>
