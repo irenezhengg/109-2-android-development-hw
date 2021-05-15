@@ -1,0 +1,55 @@
+HW10-1
+Question 1
+For a ProgressBar:
+How do you determine the range of values that a ProgressBar can show?
+set integer values for android:min and android:max attributes
+
+How do you change how much of the progress bar is filled in?
+set integer value for android:progress attribute
+
+Question 2
+If an AsyncTask is defined as follows:
+private class DownloadFilesTask extends AsyncTask<URL, Integer, Long>
+
+What is the type of the value that is passed to doInBackground() in the AsyncTask?
+URL
+
+What is the type of the value that is passed to the callback that reports the progress of the task?
+Interger
+
+What is the type of the value that is passed to the callback that is executed when the task completes?
+Long
+
+Question 3
+To report progress of the work executed by an AsyncTask, what callback method do you implement, and what method do you call in your AsyncTask subclass?
+Implement onProgressUpdate(). Call publishProgress().
+
+HW10-2
+Question 1
+What permissions does your app need to connect to the internet?
+android.permission.INTERNET
+
+Question 2
+How does your app check that internet connectivity is available?
+
+In the manifest:
+request ACCESS_NETWORK_STATE permission
+
+In the code:
+Use ConnectivityManager to check for an active network before connecting to the network.
+
+Question 3
+Where do you implement the loader callback method that's triggered when the loader finishes executing its task?
+In the Activity that displays the results of the task. The Activity must implement LoaderManager.LoaderCallbacks.
+
+Question 4
+When the user rotates the device, how do AsyncTask and AsyncTaskLoader behave differently if they are in the process of running a task in the background?
+A running AsyncTask becomes disconnected from the activity and stops running, preserving system resources. A running AsyncTaskLoader automatically restarts execution of its task from the beginning. The activity displays the results.
+
+Question 5
+How do you initialize an AsyncTaskLoader to perform steps, such as initializing variables, that must be done before the loader starts performing its background task?
+In onCreateLoader() in the activity, create an instance of the AsyncTaskLoader subclass. In the loader's constructor, perform initialization tasks.
+
+Question 6
+What methods must an AsyncTaskLoader implement?
+loadInBackground() and onStartLoading; the subclass implementing AsyncTaskLoader will also need a constructor

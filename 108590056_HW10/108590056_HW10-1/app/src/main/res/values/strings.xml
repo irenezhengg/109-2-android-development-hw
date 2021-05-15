@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">108590056_HW10-1</string>
+    <string name="ready_to_start">Everything is OK now</string>
+    <string name="start_task">Make Everything OK</string>
+    <string name="napping">"Making everything OK is in progress"</string>
+</resources>
