@@ -1,0 +1,9 @@
+HW12-1
+Question 1
+In which API level did inexact timing become the default for AlarmManager? (All set() methods use inexact timing, unless explicitly stated.)
+API level 19
+
+HW12-2
+Question 1
+What class do you use if you want features like the ones provided by JobScheduler, but you want the features to work for devices running API level 20 and lower?
+workManager
